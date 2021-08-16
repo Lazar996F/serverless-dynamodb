@@ -1,0 +1,28 @@
+{
+  "name": "serverless-dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazar996F/serverless-dynamodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lazar996F/serverless-dynamodb/issues"
+  },
+  "homepage": "https://github.com/Lazar996F/serverless-dynamodb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0",
+    "serverless-offline": "^8.0.0"
+  },
+  "devDependencies": {
+    "serverless-dynamodb-local": "^0.2.40"
+  }
+}
